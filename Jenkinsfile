@@ -13,7 +13,7 @@ pipeline {
         }
         stage("deploy") {
             steps {
-                echo 'Deploying application through automatic...'
+                echo 'Deploying application demo sangesh&arokya...'
             }
         }
     }
